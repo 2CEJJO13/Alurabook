@@ -36,7 +36,7 @@
     display: none;
     position: absolute;
     top: 100%;
-    width: 15vw;
+    width: 60vw;
 }
 
 .lista-menu_titulo,
@@ -56,4 +56,8 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
+}
+
+.container-botao {
+    display: none;
 }
